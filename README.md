@@ -368,7 +368,7 @@ MONGODB_URI=mongodb://localhost:27017/blogDB
 
 ### GitHub Repo Link
 
-GitHub repo ko [yahan](#) se access kar sakte hain.
+GitHub repo ko [yahan](https://github.com/raunakdeveloper/BlogApp) se access kar sakte hain.
 
-**Made by**: [raunakkaushal](#) ❤
+**Made by**: [raunakkaushal](https://github.com/raunakkaushal) ❤
 
